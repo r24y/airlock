@@ -1,0 +1,1 @@
+setxkbmap -layout us -variant dvp -option ctrl:nocaps
